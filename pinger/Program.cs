@@ -9,9 +9,18 @@ namespace pinger
     class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("hello world");
-            Console.Read();
-        }
+        { }
     }
+
+    class Pinger
+    { }
+
+    class Logger
+    { }
+
+    class PingAnswer
+    { }
+
+    class Query
+    { }
 }
